@@ -1,4 +1,4 @@
-Aquí tienes una estructura básica de una web app para el juego "Superajedrez" que incluye las características de un reloj para el control de tiempo y un sistema de registro e inicio de sesión. Este ejemplo utilizará HTML, CSS y JavaScript para el front-end, y proporcionaré una idea general de cómo se podría hacer el back-end.
+
 
 ### Estructura de Archivos
 ```
@@ -291,7 +291,3 @@ module.exports = mongoose.model('User', userSchema);
 ```
 
 ### Conclusión
-
-Este es un esbozo básico de cómo podrías estructurar una aplicación de ajedrez con las características que mencionaste. Recuerda que la lógica del juego y la gestión de las sesiones de usuarios son aspectos que requerirán más implementación y seguridad, especialmente en la parte de autenticación (como la encriptación de contraseñas).
-
-Para seguir adelante, necesitarás configurar un entorno de desarrollo para Node.js y MongoDB, y puedes utilizar herramientas como Postman para probar tus API. Si necesitas más ayuda o detalles específicos sobre alguna parte, ¡estaré encantado de asistirte!
